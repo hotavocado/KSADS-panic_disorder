@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "cpan18",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "### Episodes: Course\r\n\r\nThinking about all of your panic attacks: \r\n\r\n What was the longest period of time that the attacks did not bother you? \r\n\r\n  _(N days, N weeks, N months)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

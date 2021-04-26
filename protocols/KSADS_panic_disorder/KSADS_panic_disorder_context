@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-panic_disorder/master/activities/",
+        "panic_disorder": {
+            "@id": "activity_path:panic_disorder/panic_disorder_schema",
+            "@type": "@id"
+        }
+    }
+}
